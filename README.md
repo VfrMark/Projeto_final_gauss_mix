@@ -6,7 +6,7 @@ Neste notebook visa-se apresentar uma introdução aos __modelos de mistura gaus
 
 Você verá: 
 
-* Intuição dos __modelos de mistura gaussiana___
+* Intuição dos __modelos de mistura gaussiana__
 * Hipóteses assumidas para a construção do modelo
 * Fundamentação matemática e probalística
 * Prós e contrás desse tipo de modelo
